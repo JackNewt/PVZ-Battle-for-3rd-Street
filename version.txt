@@ -1,0 +1,13 @@
+0.1.9
+
+_ Overall Game Resolution increased from 720p to 1080p
+Game Now Boots to Borderless Fullscreen upon opening
+-- Option to disable Borderless or enable Normal Fullscreen Planned
+Game now asks for Player to select class instead of Defaulting to IL
+-- Settings for default starting character planned for removal
+Fixed Bug where Butcher could throw Z4
+New Explosion SFX (Cowtastic#4947)
+Fixed a bug where Explosion SFX would cut off prematurely
+Fixed Bug where Z4 would launch ZBU into the Stratosphere
+Fix for ZBU Viewmodels Planned
+Ui Overhaul planned
