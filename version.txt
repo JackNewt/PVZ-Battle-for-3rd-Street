@@ -1,4 +1,4 @@
-0.1.9
+0.1.10
 
 _ Overall Game Resolution increased from 720p to 1080p
 Game Now Boots to Borderless Fullscreen upon opening
